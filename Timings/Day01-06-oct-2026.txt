@@ -1,4 +1,4 @@
 today i setup my linux ec2 instance and git repo because my aws account had been suspended 
 3 hour - watch git video
 an hour - english class
-i'am going to complete today's aws class because i missed one hour of the class..
+i'am going to complete today's aws class because i missed one hour of the class.....
